@@ -3,7 +3,7 @@
 a {text-decoration: none;}
 
 .main-nav {
-	width: 250px; 
+	width: 250px;
 	background: rgba(180,205,203,1.00);
 	}
 
@@ -19,7 +19,7 @@ a {text-decoration: none;}
 	letter-spacing: .1em;
 }
 
-a:hover { 
+a:hover {
     background-color: BlanchedAlmond ;
 }
 
@@ -64,6 +64,7 @@ table.menu{
 table.text{
     width:55%;
     float:right;
+		border-spacing: 5em;
 }
 table.others{
     width:65%;
@@ -122,5 +123,3 @@ body {
 
 
 .mySlides {display:none;}
-
-
