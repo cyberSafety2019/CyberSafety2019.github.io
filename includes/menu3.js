@@ -14,6 +14,7 @@ document.write("<li><a href=\"../../previous_workshops\">Previous Workshops</a><
 document.write("<li><a href=\"../../abstracts\">Abstracts</a></li>");
 document.write("<li><a href=\"../../welcome_message\">Chairs' Welcome Message</a></li>");
 document.write("<li><a href=\"../../sponsors\">Sponsors</a></li>");
+document.write("<li><a href=\"../../awards\">Awards</a></li>");
 document.write("</ul>");
 document.write("</nav>");
 
